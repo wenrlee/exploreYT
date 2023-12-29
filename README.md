@@ -1,2 +1,2 @@
-# Data Analytics Portfolio projects
-Self taught Data Analyst personal projects
+# Youtube Data Exploratory 
+Story telling with channels data to better optimise future videos to perform better
